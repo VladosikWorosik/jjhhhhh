@@ -1,0 +1,255 @@
+2026-03-02 21:08:01,181 [INFO] root: Bot started.
+2026-03-02 21:08:01,182 [INFO] aiogram.dispatcher: Start polling
+2026-03-02 21:08:01,301 [INFO] aiogram.dispatcher: Run polling for bot @RyzeCasino_bot id=8739949603 - 'Ryze Casino'
+2026-03-02 21:08:13,070 [INFO] aiogram.event: Update id=108715777 is handled. Duration 641 ms by bot id=8739949603
+2026-03-02 21:08:37,570 [INFO] aiogram.event: Update id=108715778 is handled. Duration 3984 ms by bot id=8739949603
+2026-03-02 21:08:41,193 [INFO] aiogram.event: Update id=108715779 is handled. Duration 547 ms by bot id=8739949603
+2026-03-02 21:08:42,725 [INFO] aiogram.event: Update id=108715780 is handled. Duration 547 ms by bot id=8739949603
+2026-03-02 21:08:48,322 [INFO] aiogram.event: Update id=108715781 is handled. Duration 844 ms by bot id=8739949603
+2026-03-02 21:08:50,559 [INFO] aiogram.event: Update id=108715782 is handled. Duration 702 ms by bot id=8739949603
+2026-03-02 21:08:52,693 [INFO] aiogram.event: Update id=108715783 is handled. Duration 327 ms by bot id=8739949603
+2026-03-02 21:08:54,981 [INFO] aiogram.event: Update id=108715784 is handled. Duration 500 ms by bot id=8739949603
+2026-03-02 21:08:55,989 [INFO] aiogram.event: Update id=108715785 is handled. Duration 266 ms by bot id=8739949603
+2026-03-02 21:08:57,139 [INFO] aiogram.event: Update id=108715786 is handled. Duration 609 ms by bot id=8739949603
+2026-03-02 21:09:01,594 [INFO] aiogram.event: Update id=108715787 is handled. Duration 3733 ms by bot id=8739949603
+2026-03-02 21:09:08,563 [INFO] aiogram.event: Update id=108715788 is handled. Duration 391 ms by bot id=8739949603
+2026-03-02 21:09:21,537 [INFO] aiogram.event: Update id=108715789 is handled. Duration 312 ms by bot id=8739949603
+2026-03-02 21:09:50,468 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-02 21:09:50,469 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8739949603)
+2026-03-02 21:10:02,445 [INFO] aiogram.dispatcher: Connection established (tryings = 1, bot id = 8739949603)
+2026-03-02 21:11:45,005 [INFO] aiogram.event: Update id=108715790 is handled. Duration 5312 ms by bot id=8739949603
+2026-03-02 21:11:58,861 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-02 21:11:58,861 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8739949603)
+2026-03-02 21:12:09,980 [INFO] aiogram.dispatcher: Connection established (tryings = 1, bot id = 8739949603)
+2026-03-02 21:12:49,009 [INFO] aiogram.event: Update id=108715791 is handled. Duration 7062 ms by bot id=8739949603
+2026-03-02 21:12:50,944 [INFO] aiogram.event: Update id=108715792 is handled. Duration 3797 ms by bot id=8739949603
+2026-03-02 21:12:52,571 [INFO] aiogram.event: Update id=108715793 is handled. Duration 391 ms by bot id=8739949603
+2026-03-02 21:12:54,411 [INFO] aiogram.event: Update id=108715794 is handled. Duration 234 ms by bot id=8739949603
+2026-03-02 21:13:22,478 [INFO] aiogram.event: Update id=108715795 is handled. Duration 4297 ms by bot id=8739949603
+2026-03-02 21:14:31,560 [INFO] aiogram.event: Update id=108715796 is handled. Duration 811 ms by bot id=8739949603
+2026-03-02 21:19:37,935 [INFO] root: Bot started.
+2026-03-02 21:19:37,936 [INFO] aiogram.dispatcher: Start polling
+2026-03-02 21:19:38,039 [INFO] aiogram.dispatcher: Run polling for bot @RyzeCasino_bot id=8739949603 - 'Ryze Casino'
+2026-03-02 21:19:38,885 [INFO] aiogram.event: Update id=108715800 is handled. Duration 704 ms by bot id=8739949603
+2026-03-02 21:19:38,913 [INFO] aiogram.event: Update id=108715801 is handled. Duration 734 ms by bot id=8739949603
+2026-03-02 21:19:39,043 [INFO] aiogram.event: Update id=108715798 is handled. Duration 859 ms by bot id=8739949603
+2026-03-02 21:19:39,067 [INFO] aiogram.event: Update id=108715797 is handled. Duration 891 ms by bot id=8739949603
+2026-03-02 21:19:45,279 [INFO] aiogram.event: Update id=108715799 is handled. Duration 7094 ms by bot id=8739949603
+2026-03-02 21:19:48,922 [INFO] aiogram.event: Update id=108715802 is handled. Duration 405 ms by bot id=8739949603
+2026-03-02 21:20:06,815 [INFO] aiogram.event: Update id=108715803 is handled. Duration 547 ms by bot id=8739949603
+2026-03-02 21:20:14,162 [INFO] aiogram.event: Update id=108715804 is handled. Duration 437 ms by bot id=8739949603
+2026-03-02 21:20:18,048 [INFO] aiogram.event: Update id=108715805 is handled. Duration 311 ms by bot id=8739949603
+2026-03-02 21:20:19,738 [INFO] aiogram.event: Update id=108715806 is handled. Duration 328 ms by bot id=8739949603
+2026-03-02 21:20:20,634 [INFO] aiogram.event: Update id=108715807 is handled. Duration 265 ms by bot id=8739949603
+2026-03-02 21:20:22,768 [INFO] aiogram.event: Update id=108715808 is handled. Duration 312 ms by bot id=8739949603
+2026-03-02 21:20:24,725 [INFO] aiogram.event: Update id=108715809 is handled. Duration 358 ms by bot id=8739949603
+2026-03-02 21:20:48,204 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-02 21:20:48,205 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8739949603)
+2026-03-02 21:20:50,600 [INFO] aiogram.event: Update id=108715810 is not handled. Duration 21562 ms by bot id=8739949603
+2026-03-02 21:20:50,601 [ERROR] aiogram.event: Cause exception while process update id=108715810 by bot id=8739949603
+TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Traceback (most recent call last):
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\aiohttp.py", line 170, in make_request
+    async with session.post(
+               ^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiohttp\client.py", line 1197, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiohttp\client.py", line 608, in _request
+    await resp.start(conn)
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiohttp\client_reqrep.py", line 976, in start
+    message, payload = await protocol.read()  # type: ignore[union-attr]
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiohttp\streams.py", line 640, in read
+    await self._waiter
+aiohttp.client_exceptions.ServerDisconnectedError: Server disconnected
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 49, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 170, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\Desktop\bot\middlewares.py", line 39, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\Desktop\bot\middlewares.py", line 64, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\Desktop\bot\handlers\admin.py", line 237, in do_broadcast
+    status = await message.answer(f"📤 Рассылаю для {len(all_users)} пользователей…")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 480, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}")
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-02 21:20:53,931 [INFO] aiogram.dispatcher: Connection established (tryings = 1, bot id = 8739949603)
+2026-03-02 21:20:55,570 [INFO] aiogram.event: Update id=108715812 is handled. Duration 1625 ms by bot id=8739949603
+2026-03-02 21:20:56,501 [INFO] aiogram.event: Update id=108715811 is handled. Duration 2579 ms by bot id=8739949603
+2026-03-02 21:21:16,561 [INFO] aiogram.event: Update id=108715813 is not handled. Duration 22608 ms by bot id=8739949603
+2026-03-02 21:21:16,561 [ERROR] aiogram.event: Cause exception while process update id=108715813 by bot id=8739949603
+TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Traceback (most recent call last):
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\aiohttp.py", line 170, in make_request
+    async with session.post(
+               ^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiohttp\client.py", line 1197, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiohttp\client.py", line 608, in _request
+    await resp.start(conn)
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiohttp\client_reqrep.py", line 976, in start
+    message, payload = await protocol.read()  # type: ignore[union-attr]
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiohttp\streams.py", line 640, in read
+    await self._waiter
+aiohttp.client_exceptions.ServerDisconnectedError: Server disconnected
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 49, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 170, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\Desktop\bot\middlewares.py", line 39, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\Desktop\bot\middlewares.py", line 64, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\Desktop\bot\handlers\admin.py", line 231, in do_broadcast
+    await message.answer("❌ Рассылка отменена.")
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 480, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VladosikWorosik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}")
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-02 21:21:23,275 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-02 21:21:23,276 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8739949603)
+2026-03-02 21:21:30,228 [INFO] aiogram.dispatcher: Connection established (tryings = 1, bot id = 8739949603)
+2026-03-02 21:21:30,234 [INFO] aiogram.event: Update id=108715814 is not handled. Duration 0 ms by bot id=8739949603
+2026-03-02 21:21:34,014 [INFO] aiogram.event: Update id=108715815 is handled. Duration 3782 ms by bot id=8739949603
+2026-03-02 21:21:41,355 [INFO] aiogram.event: Update id=108715816 is handled. Duration 5672 ms by bot id=8739949603
+2026-03-02 21:21:53,764 [INFO] aiogram.event: Update id=108715817 is handled. Duration 219 ms by bot id=8739949603
+2026-03-02 21:21:55,161 [INFO] aiogram.event: Update id=108715818 is handled. Duration 375 ms by bot id=8739949603
+2026-03-02 21:22:00,404 [INFO] aiogram.event: Update id=108715819 is handled. Duration 125 ms by bot id=8739949603
+2026-03-02 21:24:03,577 [INFO] aiogram.event: Update id=108715821 is handled. Duration 7577 ms by bot id=8739949603
+2026-03-02 21:24:05,619 [INFO] aiogram.event: Update id=108715820 is handled. Duration 10594 ms by bot id=8739949603
+2026-03-02 21:24:08,035 [INFO] aiogram.event: Update id=108715822 is handled. Duration 280 ms by bot id=8739949603
+2026-03-02 21:24:09,167 [INFO] aiogram.event: Update id=108715823 is handled. Duration 280 ms by bot id=8739949603
+2026-03-02 21:24:10,334 [INFO] aiogram.event: Update id=108715824 is handled. Duration 312 ms by bot id=8739949603
+2026-03-02 21:25:19,856 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-02 21:25:19,856 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8739949603)
+2026-03-02 21:25:25,743 [INFO] aiogram.dispatcher: Connection established (tryings = 1, bot id = 8739949603)
+2026-03-02 21:25:26,412 [INFO] aiogram.event: Update id=108715825 is handled. Duration 671 ms by bot id=8739949603
+2026-03-02 21:25:33,118 [INFO] aiogram.event: Update id=108715826 is handled. Duration 266 ms by bot id=8739949603
+2026-03-02 21:26:12,338 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-02 21:26:12,338 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8739949603)
+2026-03-02 21:26:13,843 [INFO] aiogram.dispatcher: Connection established (tryings = 1, bot id = 8739949603)
+2026-03-02 21:26:19,897 [INFO] aiogram.event: Update id=108715827 is handled. Duration 6047 ms by bot id=8739949603
+2026-03-02 21:26:37,527 [INFO] aiogram.event: Update id=108715828 is handled. Duration 6202 ms by bot id=8739949603
